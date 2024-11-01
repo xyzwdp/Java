@@ -1,6 +1,5 @@
 package com.history.com.day13two;
 
-import com.day13one.Fup;
 
 public class Demo {
     public static void main(String[] args) {
