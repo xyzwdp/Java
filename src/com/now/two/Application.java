@@ -1,6 +1,6 @@
 package com.now.two;
 
-import com.now.seven.Person;
+
 
 public class Application {
     public static void main(String[] args) {

@@ -2,7 +2,7 @@ package com.now.five;
 
 //子类：派生类
 
-import com.now.four.Person;
+
 
 public class Student extends Person {
     public Student() {

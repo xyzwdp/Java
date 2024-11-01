@@ -1,6 +1,6 @@
 package com.now.seven;
 
-import com.now.three.Student;
+
 
 public class Application {
     public static void main(String[] args) {
